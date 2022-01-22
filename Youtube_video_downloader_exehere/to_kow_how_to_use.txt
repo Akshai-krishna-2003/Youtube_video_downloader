@@ -1,0 +1,5 @@
+Since you have come into this file so now 
+1. Go to the dist file
+2. Go into the main_program file
+3. Go to the main_program.exe file and then double click to open the file 
+4. Now enjoy your youtube video downloader
