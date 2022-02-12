@@ -3,7 +3,7 @@ import time
 import os
 
 while True:
-##    try:
+    try:
         print()
         print('Welcome to python youtube video downloader developed by Akshai krishna')
         print()
@@ -141,11 +141,11 @@ Enter your choice here: ''')
         else:
             print('Invalid input , returning to main screen')
             print()
-##    except:
-##        print('Some Error has occured')
-##        print('May be error with url or error with directory')
-##        print('Please goback and check')
-##        time.sleep(3)
-##        print('Returning to main program')
+    except:
+        print('Some Error has occured')
+        print('May be error with url or error with directory')
+        print('Please goback and check')
+        time.sleep(3)
+        print('Returning to main program')
 
     
